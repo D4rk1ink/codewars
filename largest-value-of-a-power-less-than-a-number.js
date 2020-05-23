@@ -1,4 +1,4 @@
-# Largest Value of a Power Less Than a Number
+// Largest Value of a Power Less Than a Number
 
 function isEven(n) {
   return n % 2 === 0
